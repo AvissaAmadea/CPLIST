@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836658245456",
+    "project_id": "cplist-f95b4",
+    "storage_bucket": "cplist-f95b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836658245456:android:0c5c6bf0b42dcde4a00655",
+        "android_client_info": {
+          "package_name": "com.avissa.cplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836658245456-9ous6rlf8i0r7gpedap66pj02etf8uud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwMaiQaD7BGjQU0ycrLlZ87G44ruWCxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836658245456-9ous6rlf8i0r7gpedap66pj02etf8uud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

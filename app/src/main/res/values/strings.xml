@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CPLIST</string>
+    <string name="todo">TODO</string>
+    <string name="nama">Nama</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="instagram_twitter">Instagram/Twitter</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="nama_kontak">Nama Kontak</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+</resources>
